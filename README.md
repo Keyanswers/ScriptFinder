@@ -1,6 +1,6 @@
 ---
 title: "ScriptFinder"
-author: "Juan Carlos Rubio Polania"
+author: "Juan Carlos Rubio Polania, PhD"
 date: "2026-05-04"
 output: html_document
 ---
@@ -200,4 +200,4 @@ This script can be used for:
 
 # Author
 
-Juan Carlos Rubio Polania 
+Juan Carlos Rubio Polania, PhD 
